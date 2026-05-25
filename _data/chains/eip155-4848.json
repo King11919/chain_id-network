@@ -14,7 +14,7 @@
   "networkId": 4848,
   "explorers": [{
     "name": "BlockSurety Explorer",
-    "url": "https://main.blocksurety.net",
+    "url": "https://blocksurety.net",
     "standard": "EIP3091"
   }]
 }
